@@ -1,11 +1,13 @@
+// Crear un formulario con mínimo 10 campos de datos obtener 
+// la información y por medio de un botón ejecutar un función 
+// que muestre los datos capturados
 
-let fnA = function(){
-    return `Hola soy la funcion A`;
-}
-let fnB = function(callback){
-    console.log(callback());
-    return `Hola soy la funcion B srgseg`;
-}
+// JS
+// function mostrar(){
+//     console.log("Di Clik");
+// }
 
-
-console.log(fnB(fnA));
+// EMC
+// document.querySelector("#btn").addEventListener("click", function(e){
+//     console.log(e);
+// })
