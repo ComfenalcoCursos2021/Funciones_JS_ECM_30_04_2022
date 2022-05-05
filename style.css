@@ -1,0 +1,7 @@
+label::after, label::before{
+    content: '\A';
+    white-space: pre;
+}
+span{
+    font-size: 20px;
+}
